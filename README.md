@@ -4,7 +4,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=6B1F51)
 
-| 🇺🇸 [English](./README-en.md)| 🇧🇷 [Português](./README.md)|
+| 🇺🇸 [English](./README-en.Bielamral.md)| 🇧🇷 [Português](./README.md)|
 |----------------------------|--------------------------|
 
 ## ⚙️ Habilidades em desenvolvimento
