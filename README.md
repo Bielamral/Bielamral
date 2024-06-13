@@ -4,9 +4,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=6B1F51)
 
-| 🇺🇸 [English](./README-en.Bielamral.md)| 🇧🇷 [Português](./README.md)|
-|----------------------------|--------------------------|
-
 ## ⚙️ Habilidades em desenvolvimento
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
