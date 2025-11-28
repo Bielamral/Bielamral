@@ -13,9 +13,6 @@
 
 <div>
 <a href="https://github.com/Bielamral">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bielamral&show_icons=true,prs&cache_seconds=86400&theme=jolly"></img>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielamral&layout=compact&theme=dark"></img>
-</a>
 </div>
 
 <div> 
